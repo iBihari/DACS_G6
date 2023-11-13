@@ -1,2 +1,12 @@
 # DACS_G6
-nah
+
+-- hướng dẫn run chương trình trên Visual Studio Code:
+
+-- trước tiên cần cài NodeJs v16.20.0
+
+mở terminal tại thư mục "web movie"
+sau đó chạy các lệnh sau: 
+                            cd Web_xem_phim_gr4
+                            cd client
+                            npm install
+                            npm start
