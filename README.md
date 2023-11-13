@@ -6,7 +6,6 @@
 
 mở terminal tại thư mục "web movie"
 sau đó chạy các lệnh sau: 
-                            cd Web_xem_phim_gr4
-                            cd client
-                            npm install
-                            npm start
+-------cd client
+-------npm install
+-------npm start
